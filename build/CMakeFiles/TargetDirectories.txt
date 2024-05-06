@@ -1,0 +1,13 @@
+/home/peach/练手mprpc/mprpc/build/CMakeFiles/edit_cache.dir
+/home/peach/练手mprpc/mprpc/build/CMakeFiles/rebuild_cache.dir
+/home/peach/练手mprpc/mprpc/build/src/CMakeFiles/mprpc.dir
+/home/peach/练手mprpc/mprpc/build/src/CMakeFiles/edit_cache.dir
+/home/peach/练手mprpc/mprpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/CMakeFiles/edit_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/callee/CMakeFiles/provider.dir
+/home/peach/练手mprpc/mprpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/caller/CMakeFiles/consumer.dir
+/home/peach/练手mprpc/mprpc/build/example/caller/CMakeFiles/edit_cache.dir
+/home/peach/练手mprpc/mprpc/build/example/caller/CMakeFiles/rebuild_cache.dir
